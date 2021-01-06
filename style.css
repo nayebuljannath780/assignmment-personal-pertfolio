@@ -13,6 +13,16 @@ h2{
 h3{
     color: rgb(54,57,88);
 }
+.bar a{
+    text-decoration: none;
+    margin-left: 75%;
+    color: rgba(59, 59, 59);
+}
+
+#margin{
+    margin-left: 2%;
+}
+
 .mp-peragaraph{
     color: dimgray;
     font-size: 15px;
